@@ -1,0 +1,30 @@
+body {
+  background: #3B4252;
+  color: #D8DEE9;
+}
+
+.bg-dark {
+  background-color: #2E3440 !important;
+}
+
+.border-bottom {
+  border-bottom: 1px solid #333 !important;
+}
+
+.card {
+  background-color: #2E3440;
+  border: 1px solid #333;
+}
+
+.btn-success {
+  color: #2E3440;
+  background-color: #A3BE8C;
+  border-color: #A3BE8C;
+}
+
+.btn-info {
+  color: #D8DEE9;
+  background-color: #4C566A;
+  border-color: #4C566A;
+}
+
